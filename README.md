@@ -43,10 +43,10 @@ Feel free to reach out to me if you have any questions, suggestions, or just wan
 Here are some screenshots or images showcasing my projects:
   # BOOKME
 - **BookME** is an android application written in kivy that gives students the ability to search for anybook on the internet, have access to them and then download at will.
--
+
   ![Project 1](https://github.com/theTrine333/BookME-App/blob/main/assets/icons/0.png)
 
   # theHub
 - **theHub** is an android application written in kivy that gives the user ability to browse for movies and series. The user can also download the movies at will
--
+
    ![project 2](https://github.com/theTrine333/theHub/blob/09e1a8cabf8bb4f56ff10c9a6a7fc3883bb8e9cd/theHubLogo.png)
