@@ -51,3 +51,7 @@ Here are some screenshots or images showcasing my projects:
 - **theHub** is an android application written in kivy that gives the user ability to browse for movies and series. The user can also download the movies at will
 
    ![project 2](https://github.com/theTrine333/theHub/blob/09e1a8cabf8bb4f56ff10c9a6a7fc3883bb8e9cd/theHubLogo.png)
+
+  # WallCraft
+  - **WallCraft** is an android application that gives the user beautifull wallpapers and allow the  user to set them on there home screen or lockscreen.
+    ![project 3](https://github.com/theTrine333/WallCraft/blob/main/images/wallcraft-logo.png)
