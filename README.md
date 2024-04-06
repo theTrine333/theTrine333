@@ -33,7 +33,7 @@ I enjoy learning and exploring new technologies. I am particularly interested in
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/erick-ronald-3ba185244/)
 - [Twitter](https://twitter.com/yourhandle)
 - [Website/Blog](https://yourwebsite.com)
 
