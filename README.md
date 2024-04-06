@@ -35,7 +35,7 @@ I enjoy learning and exploring new technologies. I am particularly interested in
 
 - [LinkedIn](https://www.linkedin.com/in/erick-ronald-3ba185244/)
 - [Twitter](https://twitter.com/yourhandle)
-- [Website/Blog](https://yourwebsite.com)
+- [Whatsapp](https://wa.me/+254795514454)
 
 Feel free to reach out to me if you have any questions, suggestions, or just want to chat!
 
