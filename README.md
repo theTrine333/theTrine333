@@ -5,11 +5,12 @@ I am a passionate programmer with experience in various programming languages an
 ## 🔧 Skills
 
 ### Programming Languages
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/React_Native-0088CC?style=for-the-badge&logo=react&logoColor=black)
 - ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-- ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![C++](https://img.shields.io/badge/C++-00342C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-E08B00?style=for-the-badge&logo=java&logoColor=white)
+- ![Kotlin](https://img.shields.io/badge/Kotlin-00599A?style=for-the-badge&logo=kotlin&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black)
 - ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 - ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
@@ -25,7 +26,7 @@ I am a passionate programmer with experience in various programming languages an
 
 ## 🌱 About Me
 
-I enjoy learning and exploring new technologies. I am particularly interested in [Python-Kivy and PyQT5]. Besides coding, I also love solving any mind needed problems.
+I enjoy learning and exploring new technologies. I am particularly interested in `Python-Kivy`,`PyQT5`, `React-Native` and others. Besides coding, I also love solving any mind bending problems.
 
 ## 📚 Education
 
